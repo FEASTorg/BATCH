@@ -1,2 +1,3 @@
 # BATCH
-Bridging Architecture for Task Control &amp; Handling
+
+Bridging Architecture for Task Control and Handling
