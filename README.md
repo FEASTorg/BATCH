@@ -1,3 +1,3 @@
-# [BATCH](https://feastorg.github.io/BATCH/)
+# BATCH
 
 Bridging Architecture for Task Control and Handling
